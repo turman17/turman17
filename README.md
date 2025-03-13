@@ -1,7 +1,7 @@
 Hi there 👋
 🔭 I’m currently a student at 42 Lisboa
 
-🌱 I’m currently studying C, C++, Python
+🌱 I’m currently studying Machine Learning, Neural Network, Python
 
 📫 How to reach me: turman1701@gmail.com
 
