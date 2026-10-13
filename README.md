@@ -5,7 +5,7 @@
 
 - 🌱 Trained in **Machine Learning, Neural Networks & Reinforcement Learning**
 
-- 🏆 **Uniswap Prize Winner** @ ETHGlobal Lisbon 2026 — **Peregrine**
+- 🏆 **Uniswap Prize Winner** @ETHGlobal Lisbon 2026 — **Peregrine**
 
 - 📝 Sometimes writing on [Medium](https://medium.com/@turman1701)
 
