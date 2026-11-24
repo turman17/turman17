@@ -7,7 +7,7 @@
 
 - 🏆 **Uniswap Prize Winner** @ETHGlobal Lisbon 2026 — **Peregrine**
 
-- 📝 Sometimes writing on [Medium](https://medium.com/@turman1701)
+- 📝 Sometimes writing on [Medium](https://medium.com/@turman1701) and [HackerNoon](https://hackernoon.com/u/turman17)
 
 - 📫 Reach me at **turman1701@gmail.com**
 
